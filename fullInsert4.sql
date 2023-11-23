@@ -3,7 +3,7 @@ INSERT INTO Answer (answer) VALUES ('ΡΙΒΕΡ ΠΛΕΪΤ');
 INSERT INTO Answer (answer) VALUES ('ΡΑΣΙΝΓΚ ΚΛΟΥΜΠ');
 INSERT INTO Answer (answer) VALUES ('ΡΟΖΑΡΙΟ ΣΕΝΤΡΑΛ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'history',
     1,
@@ -24,7 +24,7 @@ INSERT INTO Answer (answer) VALUES ('ΑΡΣΕΝΑΛ');
 INSERT INTO Answer (answer) VALUES ('ΛΙΒΕΡΠΟΥΛ');
 INSERT INTO Answer (answer) VALUES ('ΜΑΝ. ΓΙΟΥΝΑΪΤΕΝΤ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'history',
     2,
@@ -45,7 +45,7 @@ INSERT INTO Answer (answer) VALUES ('ΡΟΜΑΡΙΟ');
 INSERT INTO Answer (answer) VALUES ('ΜΠΡΑΝΚΟ');
 INSERT INTO Answer (answer) VALUES ('ΝΤΟΥΝΓΚΑ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'history',
     3,
@@ -66,7 +66,7 @@ INSERT INTO Answer (answer) VALUES ('ΛΑ ΠΛΑΤΑ');
 INSERT INTO Answer (answer) VALUES ('ΚΟΡΝΤΟΜΠΑ');
 INSERT INTO Answer (answer) VALUES ('ΜΠΟΥΕΝΟΣ ΑΪΡΕΣ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'geography',
     1,
@@ -87,7 +87,7 @@ INSERT INTO Answer (answer) VALUES ('ΑΓΙΑΞ');
 INSERT INTO Answer (answer) VALUES ('ΤΒΕΝΤΕ');
 INSERT INTO Answer (answer) VALUES ('ΦΕΓΕΝΟΡΝΤ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'geography',
     2,
@@ -108,7 +108,7 @@ INSERT INTO Answer (answer) VALUES ('ΜΕΡΣΕΝΤΕΣ ΜΠΕΝΖ ΑΡΕΝΑ');
 INSERT INTO Answer (answer) VALUES ('ΚΑΡΛ ΜΠΕΝΖ ΣΤΑΝΤΙΟΝ');
 INSERT INTO Answer (answer) VALUES ('ΟΛΙΜΠΙΑΣΤΑΝΤΙΟΝ ΜΠΕΡΛΙΝ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'geography',
     3,
@@ -129,7 +129,7 @@ INSERT INTO Answer (answer) VALUES ('ΕΛΤΣΕ');
 INSERT INTO Answer (answer) VALUES ('ΟΣΑΣΟΥΝΑ');
 INSERT INTO Answer (answer) VALUES ('ΕΪΜΠΑΡ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'logo',
     1,
@@ -150,7 +150,7 @@ INSERT INTO Answer (answer) VALUES ('ΣΤΕΑΟΥΑ ΒΟΥΚΟΥΡΕΣΤΙΟΥ')
 INSERT INTO Answer (answer) VALUES ('ΦΑΡΟΥΛ ΚΟΝΣΤΑΝΤΣΑ');
 INSERT INTO Answer (answer) VALUES ('ΚΛΟΥΖ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'logo',
     2,
@@ -171,7 +171,7 @@ INSERT INTO Answer (answer) VALUES ('ΡΙΟ ΑΒΕΣ');
 INSERT INTO Answer (answer) VALUES ('ΜΑΡΙΤΙΜΟ');
 INSERT INTO Answer (answer) VALUES ('ΜΠΟΑΒΙΣΤΑ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'logo',
     3,
@@ -192,7 +192,7 @@ INSERT INTO Answer (answer) VALUES ('Β. ΚΑΜΠΑΓΙΕΡΟ');
 INSERT INTO Answer (answer) VALUES ('Κ. ΜΠΡΑΒΟ');
 INSERT INTO Answer (answer) VALUES ('ΕΝΤΕΡΣΟΝ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'misses',
     1,
@@ -213,7 +213,7 @@ INSERT INTO Answer (answer) VALUES ('Κ. ΚΑΡΕΜΠΕ');
 INSERT INTO Answer (answer) VALUES ('Ν. ΑΝΕΛΚΑ');
 INSERT INTO Answer (answer) VALUES ('Ν. ΤΡΕΖΕΓΚΕ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'misses',
     2,
@@ -234,7 +234,7 @@ INSERT INTO Answer (answer) VALUES ('Μ. ΦΕΡΝΑΝΤΕΣ');
 INSERT INTO Answer (answer) VALUES ('Χ. ΒΑΛΝΤΙΒΙΑ');
 INSERT INTO Answer (answer) VALUES ('Ν. ΠΙΖΑΡΟ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'misses',
     3,
@@ -255,7 +255,7 @@ INSERT INTO Answer (answer) VALUES ('Ρ. ΚΟΥΑΡΕΣΜΑ');
 INSERT INTO Answer (answer) VALUES ('ΧΕΛΤΟΝ');
 INSERT INTO Answer (answer) VALUES ('Ζ. ΜΟΥΤΙΝΙΟ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'bio',
     1,
@@ -276,7 +276,7 @@ INSERT INTO Answer (answer) VALUES ('Α. ΜΠΑΡΤΣΑΛΙ');
 INSERT INTO Answer (answer) VALUES ('Κ. ΜΑΡΚΙΣΙΟ');
 INSERT INTO Answer (answer) VALUES ('Φ. ΚΟΥΑΛΙΑΡΕΛΑ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'bio',
     2,
@@ -297,7 +297,7 @@ INSERT INTO Answer (answer) VALUES ('Μ. ΑΜΠΡΟΣΙΝΙ');
 INSERT INTO Answer (answer) VALUES ('Ρ. ΜΟΝΤΟΛΙΒΟ');
 INSERT INTO Answer (answer) VALUES ('Λ. ΝΤΕ ΣΙΛΒΕΣΤΡΙ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'bio',
     3,
@@ -318,7 +318,7 @@ INSERT INTO Answer (answer) VALUES ('ΝΤΕΡΜΠΙ ΝΤΕΛΑ ΣΑΝΤΑ ΜΑΡ
 INSERT INTO Answer (answer) VALUES ('ΝΤΕΡΜΠΙ ΝΤΕΛΑ ΚΑΠΙΤΑΛΕ');
 INSERT INTO Answer (answer) VALUES ('ΝΤΕΡΜΠΙ ΝΤΕΛΑ ΜΑΝΤΟΝΙΝΑ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'hide',
     1,
@@ -339,7 +339,7 @@ INSERT INTO Answer (answer) VALUES ('Ν. ΑΛΒΕΣ');
 INSERT INTO Answer (answer) VALUES ('Π. ΡΕΪΝΑ');
 INSERT INTO Answer (answer) VALUES ('Ι. ΚΑΣΙΓΙΑΣ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'hide',
     2,
@@ -360,7 +360,7 @@ INSERT INTO Answer (answer) VALUES ('ΤΖΟΝ');
 INSERT INTO Answer (answer) VALUES ('ΝΤΟΥΛΑΠΑ');
 INSERT INTO Answer (answer) VALUES ('ΝΤΕΪΒ');
 
-INSERT INTO Question (category, level, question, imageUrl, tip, firstAnsId, secondAnsId, thirdAnsId, fourthAnsId, correctAns)
+INSERT INTO Question (category, level, question, imageurl, tip, firstansid, secondansid, thirdansid, fourthansid, correctans)
 VALUES (
 	'hide',
     3,

@@ -146,7 +146,7 @@ VALUES (
  -- --------------------------------
  
 INSERT INTO Answer (answer) VALUES ('ΙΝΤΕΠΕΝΤΙΕΝΤΕ');
-INSERT INTO Answer (answer) VALUES (E'ΝΙΟΥΕΛΣ ΟΛ\' ΜΠΟΙΣ');
+INSERT INTO Answer (answer) VALUES (E'ΝΙΟΥΕΛΣ ΟΛ'' ΜΠΟΙΣ');
 INSERT INTO Answer (answer) VALUES ('ΑΡΧΕΝΤΙΝΟΣ ΤΖΟΥΝΙΟΡ');
 INSERT INTO Answer (answer) VALUES ('ΣΑΝ ΛΟΡΕΝΖΟ');
 
